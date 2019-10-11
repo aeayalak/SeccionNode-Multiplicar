@@ -6,7 +6,7 @@ Aplicacion de consola de practica de NODE.JS
 
 Esta es una aplicacion para generar u listar tablas de multiplicar
 
-Ejecuar este comando
+Ejecutar este comando
 --------------------------
 npm install
 --------------------------
@@ -14,4 +14,4 @@ npm install
 
 
 
-                                Adrian Ayala
+Adrian Ayala
